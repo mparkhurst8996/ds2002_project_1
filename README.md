@@ -140,8 +140,7 @@ Follow these steps to fully implement the project:
 ---
 
 ### Step 6: Load Historical Weather Data via API
-1. Replace `API_KEY` in `python/weather_api.ipynb` with a valid OpenWeatherMap key.
-2. Run the notebook to:
+1. Run the notebook to:
    - Fetch historical weather data for Charlottesville for October 2025.
    - Aggregate hourly temperature and conditions to daily averages.
    - Load data into the `weather` table in MySQL.
@@ -156,4 +155,4 @@ Follow these steps to fully implement the project:
    - Electric vs non-electric vehicle trips and passengers.
    - Passengers by day of week per route.
    - Join `fact_passenger_counts` with `dim_customers` and `weather` for combined insights.
-2. Use MySQL Workbench or a Python notebook to execute these queries and review results.
+2. Use MySQL Workbench to execute these queries and review results.
