@@ -1,4 +1,4 @@
-# DS-2002 – Data Project 1: Shuttle Data Warehouse
+# DS-2002 – Data Project 1
 
 ## Overview
 
