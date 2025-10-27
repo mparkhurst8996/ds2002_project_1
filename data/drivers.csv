@@ -1,0 +1,11 @@
+driver_id,first_name,last_name,cdl_flag,hire_month,hire_year
+1,Alice,Brown,Y,5,2020
+2,Mark,Jones,N,8,2022
+3,Rita,Singh,Y,1,2019
+4,Tom,Williams,N,9,2021
+5,Lily,Chen,Y,3,2018
+6,Chris,Patel,N,11,2023
+7,Nina,Garcia,Y,7,2020
+8,Sam,Lee,Y,2,2017
+9,Olivia,Kim,Y,6,2024
+10,Ethan,Wright,Y,4,2016

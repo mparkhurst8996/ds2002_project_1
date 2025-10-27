@@ -1,0 +1,11 @@
+vehicle_id,vehicle_number,vehicle_type,electric_flag,capacity
+101,1001,bus,N,40
+102,E201,ejest,Y,16
+103,V12,van,N,10
+104,C4,car,Y,4
+105,1002,bus,Y,40
+106,V13,van,N,8
+107,C5,car,N,4
+108,E202,ejest,Y,16
+109,1010,bus,N,40
+110,1011,bus,N,40

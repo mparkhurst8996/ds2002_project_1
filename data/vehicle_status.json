@@ -1,0 +1,30 @@
+[
+  {
+    "vehicle_number": "1001",
+    "timestamp": "2025-10-05T08:30:00",
+    "battery_level": 85,
+    "current_location": "CHP",
+    "in_service": true
+  },
+  {
+    "vehicle_number": "E201",
+    "timestamp": "2025-10-05T08:35:00",
+    "battery_level": 92,
+    "current_location": "LIB",
+    "in_service": true
+  },
+  {
+    "vehicle_number": "V12",
+    "timestamp": "2025-10-05T09:00:00",
+    "battery_level": 0,
+    "current_location": "Depot",
+    "in_service": false
+  },
+  {
+    "vehicle_number": "C4",
+    "timestamp": "2025-10-05T09:15:00",
+    "battery_level": 60,
+    "current_location": "JPJ",
+    "in_service": true
+  }
+]

@@ -1,0 +1,5 @@
+route_id,route_name,primary_stops,route_duration_min
+1,Green Loop,CHP,30
+2,Orange Loop,LIB,30
+3,Gold Line,"BAR,HER",20
+4,Silver Line,"JPJ,PIN",15
