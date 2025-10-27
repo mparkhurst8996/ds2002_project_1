@@ -156,3 +156,7 @@ Follow these steps to fully implement the project:
    - Passengers by day of week per route.
    - Join `fact_passenger_counts` with `dim_customers` and `weather` for combined insights.
 2. Use MySQL Workbench to execute these queries and review results.
+
+---
+
+###Alternatively, you can download the sql schema for the data using the shuttle_dw.sql dump available with existing schema and data.
